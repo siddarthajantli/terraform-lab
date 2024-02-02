@@ -13,4 +13,3 @@ backend_dynamodb_table = "tf-dev-lock"
 # ECS
 create_ecs_cluster = true
 ecs_cluster_name   = "e2e-auto-lab"
-container_insights = false
